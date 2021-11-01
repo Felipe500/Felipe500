@@ -15,15 +15,21 @@ Here are some ideas to get you started:
 <img src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2Ff2px36fy.gif&w=1920&q=75" > 
 </div>
 
-<div>
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" > 
+
+   # DESKTOP DEVELOPER AND AUTOMATION  
+ <div>  
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" > 
+  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" >
+ </div>
+ 
+   # MOBILE DEVELOPER
+ <div>  
  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" > 
  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" >
- <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" >
-</div> 
+ </div>
 
-
-  # WEB DEVELOPER
+  # WEB DEVELOPER - FRONT-END AND BACK-END
+ 
  <div>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
