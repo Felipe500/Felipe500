@@ -37,9 +37,8 @@ Here are some ideas to get you started:
  </div>
 
 
-Acesso [link text itself].
 
 
-[link text itself]: https://www.linkedin.com/in/jose-felipe-rib-dev/
+Acesso[link text itself]: https://www.linkedin.com/in/jose-felipe-rib-dev/
 
   
