@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  </div>
  # REDES SOCIAS 
  <div>
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+     <a url="https://www.linkedin.com/in/jose-felipe-rib-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
  </div>
   
