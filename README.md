@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### 👯 Aceito sugestões em meus projetos
 
 <div>
-<img src="https://media1.tenor.com/images/bddf2872f32eea960e56bd76093dd3c9/tenor.gif" > 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw2JGazXkkvmnbp9s4AFjwJj&ust=1635811256741000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODayPnt9fMCFQAAAAAdAAAAABAD" > 
 </div>
 
 <div>
