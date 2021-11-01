@@ -32,12 +32,12 @@ Here are some ideas to get you started:
  # REDES SOCIAS 
  <div>
      <a url="https://www.linkedin.com/in/jose-felipe-rib-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
- [I'm an inline-style link](https://www.google.com)
+
 
  </div>
 
 
-Or leave it empty and use the [link text itself].
+Acesso [link text itself].
 
 
 [link text itself]: https://www.linkedin.com/in/jose-felipe-rib-dev/
