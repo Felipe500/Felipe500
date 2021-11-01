@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### 👯 Aceito sugestões em meus projetos
 
 <div>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw2JGazXkkvmnbp9s4AFjwJj&ust=1635811256741000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODayPnt9fMCFQAAAAAdAAAAABAD" > 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackernoon.com%2Fhow-to-learn-python-without-any-programming-background-pn4l36lr&psig=AOvVaw2Sqk6KDy91C6p3vujVzxPQ&ust=1635811686734000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiV6Mnv9fMCFQAAAAAdAAAAABAD" > 
 </div>
 
 <div>
