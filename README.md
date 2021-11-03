@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 ### 👯 Aceito sugestões em meus projetos
 
 <div>
-<img src="https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2Ff2px36fy.gif&w=1920&q=75" > 
+<img src="https://github.com/Felipe500/Felipe500/blob/main/st.gif" > 
 </div>
 
 
