@@ -11,11 +11,6 @@ Here are some ideas to get you started:
 -->
 ### 👯 Aceito sugestões em meus projetos
 
-<div>
-<img src="https://github.com/Felipe500/Felipe500/blob/main/st.gif" > 
-</div>
-
-
    # DESKTOP DEVELOPER AND AUTOMATION  
  <div>  
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" > 
