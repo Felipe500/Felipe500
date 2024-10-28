@@ -11,18 +11,6 @@ Here are some ideas to get you started:
 -->
 ### 👯 Aceito sugestões em meus projetos
 
-   # DESKTOP DEVELOPER AND AUTOMATION  
- <div>  
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" > 
-  <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" >
- </div>
- 
-   # MOBILE DEVELOPER
- <div>  
- <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" > 
- <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" >
- </div>
-
   # WEB DEVELOPER - FRONT-END AND BACK-END
  
  <div>
